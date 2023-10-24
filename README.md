@@ -38,4 +38,4 @@ When resolving tickets, it is important to have strong communication. One has to
 
 <h2>Lessons Learned</h2>
 
-The protocols for how tickets are managed can differ depending on the work environment. There may be a quota for how many tickets need to be resolved within a certain time frame and certain tickets will have to be prioritized depending on the situation. This complete simulation was built to perform osTicketing duties in a work environment.
+Mutliple HelpDesk users may interact with a single ticket and also the ticket may change tier level depending on the information given through the life of the ticket. The SLA's (Service Level Agreements) may differ dependent upon the nature of the ticket and severity. This complete simulation was built to perform osTicketing duties in a work environment.
